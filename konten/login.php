@@ -24,13 +24,15 @@ if (isset($_POST['masuk'])) {
 
 
 <div class="text-center col-3 offset-md-4">
-  <h1>login</h1>
+  <h1>UKK.INVENTARIS.</h1>
   <form action="" method="post" class="form-signin">
-  <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
-    <label for="inputEmail" class="sr-only">Email address</label>
-    <input type="text" id="inputEmail" name="username" class="form-control" placeholder="Email address" required autofocus>
-    <label for="inputPassword" class="sr-only">Password</label>
-    <input type="password" id="inputPassword" name="password" class="form-control" placeholder="Password" required>
-    <button class="btn btn-lg btn-primary btn-block" name="masuk" type="submit">Sign in</button>
+  <h1 class="h3 mb-3 font-weight-normal">Silakan Masuk</h1>
+    <div class="form-group">
+      <input type="text" id="inputEmail" name="username" class="form-control" placeholder="Nama pengguna" required autofocus>
+    </div>
+    <div class="form-group">
+      <input type="password" id="inputPassword" name="password" class="form-control" placeholder="Katasandi" required>
+    </div>
+    <button class="btn btn-lg btn-primary btn-block" name="masuk" type="submit">Masuk</button>
   </form>
 </div>

@@ -27,3 +27,9 @@ elseif ($_GET['menu'] == 'jenis') {
 elseif ($_GET['menu'] == 'tambah-jenis') {
   include('konten/tambah-jenis.php');
 }
+elseif ($_GET['menu'] == 'ruangan') {
+  include('konten/ruangan.php');
+}
+elseif ($_GET['menu'] == 'tambah-ruangan') {
+  include('konten/tambah-ruangan.php');
+}
