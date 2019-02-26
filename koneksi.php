@@ -1,2 +1,2 @@
 <?php
-$konek = mysqli_connect('localhost', 'root', 'passwd48', 'ukk_paket_3');
+$konek = mysqli_connect('localhost', 'root', '', 'ukk_paket_3');
