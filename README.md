@@ -19,7 +19,7 @@
 * [x] konfigurasi database (koneksi)
 * [x] login
 * [x] logout
-* [ ] inventarisir
+* [x] inventarisir
   * [x] data jenis
   * [x] data ruangan
-  * [ ] inventarisir
+  * [x] inventarisir
