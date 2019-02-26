@@ -14,6 +14,7 @@ if (isset($_POST['masuk'])) {
     $_SESSION['user'] = $sesi['username'];
     $_SESSION['nama'] = $sesi['nama_petugas'];
     $_SESSION['id_level'] = $sesi['id_level'];
+    $_SESSION['id'] = $sesi['id_petugas'];
 
     header('Location: ?menu=home');
   } else {

@@ -9,6 +9,9 @@ elseif ($_GET['menu'] == 'sonia') {
 elseif ($_GET['menu'] == 'inventarisir') {
   include('konten/inventaris.php');
 }
+elseif ($_GET['menu'] == 'tambah-inventarisir') {
+  include('konten/tambah-inventarisir.php');
+}
 elseif ($_GET['menu'] == 'peminjaman') {
   include('konten/peminjaman.php');
 }
