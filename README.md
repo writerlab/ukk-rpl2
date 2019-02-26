@@ -2,21 +2,24 @@
 
 # TIMELINE
 ## ANALISIS 
-* kebutuhan ✅
-* flow map/chart ✅
+* [x] kebutuhan
+* [x] flow map/chart
 
 ## DESAIN
-* DATABASE & strtuktur tabel ✅
-* Template 
-  * download template ✅
-  * pindahkan ke folder htdocs/ ✅
-  * ekstrak ✅
-  * rename foldernya. misal: ukk_rika ✅
+* [x] DATABASE & strtuktur tabel
+* [x] Template 
+  * [x] download template
+  * [x] pindahkan ke folder htdocs/
+  * [x] ekstrak
+  * [x] rename foldernya. misal: ukk_rika
 
 ## IMPLEMENTASI
-* pecah struktur index ✅
-* buat ruouting ✅
-*To do*
-* konfigurasi database (koneksi) ❌
-* login ❌
-* logout ❌
+* [x] pecah struktur index
+* [x] buat ruouting
+* [x] konfigurasi database (koneksi)
+* [x] login
+* [x] logout
+* [] inventarisis
+  * [x] data jenis
+  * [] data ruangan
+  * [] inventaris
